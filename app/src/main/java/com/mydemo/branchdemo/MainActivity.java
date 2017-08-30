@@ -22,5 +22,8 @@ public class MainActivity extends AppCompatActivity {
 
         //zhu fen zhi
         int z = R.mipmap.z;
+
+        int wechatIMG15 = R.mipmap.WechatIMG15;
+
     }
 }
