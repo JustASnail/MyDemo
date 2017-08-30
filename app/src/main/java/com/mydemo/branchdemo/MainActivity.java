@@ -19,5 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
         //Branch1
         BranchActivity.start(this);
+
+        //zhu fen zhi
     }
 }
