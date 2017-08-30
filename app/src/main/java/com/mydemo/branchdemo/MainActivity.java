@@ -21,5 +21,6 @@ public class MainActivity extends AppCompatActivity {
         BranchActivity.start(this);
 
         //zhu fen zhi
+        int z = R.mipmap.z;
     }
 }
