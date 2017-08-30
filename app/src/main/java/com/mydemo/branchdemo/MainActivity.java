@@ -16,5 +16,8 @@ public class MainActivity extends AppCompatActivity {
 
         //master
         MyActivity.start(this);
+
+        //Branch1
+        BranchActivity.start(this);
     }
 }
