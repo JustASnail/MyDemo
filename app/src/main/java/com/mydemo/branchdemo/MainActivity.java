@@ -13,5 +13,8 @@ public class MainActivity extends AppCompatActivity {
         //frist commit
 
         MasterActivity.start(this);
+
+        //Branch1
+        BranchActivity.start(this);
     }
 }

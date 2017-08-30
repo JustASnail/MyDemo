@@ -17,6 +17,8 @@
         </activity>
         <activity android:name=".MasterActivity">
         </activity>
+        <activity android:name=".BranchActivity">
+        </activity>
     </application>
 
 </manifest>
